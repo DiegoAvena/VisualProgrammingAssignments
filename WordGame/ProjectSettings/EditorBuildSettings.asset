@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/mainMenu.unity
+    guid: f1a28a400f8d84fda8e0a8bcb0701d2e
+  - enabled: 1
+    path: Assets/Scenes/wordGame.unity
+    guid: acdafdfbddbb7d1498273cabd052b99f
+  - enabled: 1
+    path: Assets/Scenes/wordGameUntimed.unity
+    guid: c7dbb7d10cce14434adc2148db38350c

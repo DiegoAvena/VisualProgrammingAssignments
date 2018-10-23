@@ -1,0 +1,111 @@
+Timestamp: 09/14/2018 12:40:11
+Starting up...
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:17
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:23
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:25
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:25
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:25
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:25
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:28
+Shutting down...
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:31
+Starting up...
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:32
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:38
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:39
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:39
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:40
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:40
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:40
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:40
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:45
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:46
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:48
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:50
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:50
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:40:59
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:01
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:01
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:03
+Shutting down...
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:07
+Starting up...
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:09
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:12
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:14
+Shutting down...
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:19
+Starting up...
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:20
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:21
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:21
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:21
+Spacebar was pressed
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:24
+Middle button was pressed.
+/////////////////////////////
+Timestamp: 09/14/2018 12:41:27
+Shutting down...
+/////////////////////////////

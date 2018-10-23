@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F0274399-B47A-4B2B-0DD6-7B58181D9C33}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/README.txt">
+    <Files>
+      <File FileName="Assets/Scripts/Test.cs" Line="70" Column="23" />
+      <File FileName="Assets/Scripts/DataLogger.cs" Line="66" Column="71" />
+      <File FileName="Assets/README.txt" Line="11" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FirstProject PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

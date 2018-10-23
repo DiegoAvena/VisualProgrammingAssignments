@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{51D1E3E2-5E00-E55E-B393-7FA7E1ED8472}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControls.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="54" Column="28" />
+      <File FileName="Assets/Scripts/BallControl.cs" Line="13" Column="40" />
+      <File FileName="Assets/Scripts/SideWalls.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/ComputerMovement.cs" Line="9" Column="30" />
+      <File FileName="Assets/Scripts/GameSetup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Pong PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

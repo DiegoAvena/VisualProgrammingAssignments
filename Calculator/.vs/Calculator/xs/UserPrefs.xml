@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9D9C72D1-FC67-5644-B0DA-AA02C858ED4A}|">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Calculator.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Calculator.cs" Line="16" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

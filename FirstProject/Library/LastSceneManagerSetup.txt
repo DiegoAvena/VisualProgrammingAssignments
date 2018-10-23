@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/DataTracking.unity
+  isLoaded: 1
+  isActive: 1
